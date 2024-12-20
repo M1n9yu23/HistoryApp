@@ -17,11 +17,6 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-//        deleteDatabase("history_database")
-//
-//        val database = HistoryDatabase.getDatabase(applicationContext)
-//        populateDatabase(database)
-
         setContent {
             HistoryApp()
         }
