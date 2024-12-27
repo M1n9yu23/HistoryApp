@@ -1,4 +1,4 @@
-![시간의발자취](https://github.com/user-attachments/assets/82e205d5-59d2-462f-a36c-ebbdbd3fef6f)
+<img src="https://github.com/user-attachments/assets/82e205d5-59d2-462f-a36c-ebbdbd3fef6f" alt="시간의 발자취" width="500"/>
 
 # 🕰️ 시간의 발자취
 
