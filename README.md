@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/180e8b2a-be80-4cb9-aac7-3fffd4d34ef9" alt="시간의 발자취" height="500"/>
-</div>
+![historyImg](https://github.com/user-attachments/assets/a5c0893c-ea0c-41a2-a2f5-e217bbd8021a)
+
 
 
 # 🕰️ 시간의 발자취
